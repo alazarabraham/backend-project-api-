@@ -14,7 +14,7 @@ create table Boxer (
     beltNames varchar(500)
     );  
 
-create table User (
+create table userlogin (
     id serial primary key,
     first_name varchar(100), 
     last_name varchar(100),  
